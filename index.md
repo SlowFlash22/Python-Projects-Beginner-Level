@@ -1,4 +1,4 @@
-# *Beginner Level Python Projects* 🐍  
+# Description:
 
 ## Hey there developers😇, welcome to this repository!
 - ###  This repository contains python projects for beginners.
