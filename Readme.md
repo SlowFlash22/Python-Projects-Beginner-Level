@@ -12,7 +12,7 @@
         5. [Password Generator](https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/5.%20Password%20Generator)
         6. [Hangman](https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/6.%20Hangman)
         7. [Caesar's Cipher](https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/7.%20Caesar's%20Cipher)
-        8. [Secret Auction](https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/8.%20Secret%20Auctions)
+        8. [Secret Auction](https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/8.%20Secret%20Auction)
         9. *More projects incoming......*
 ---  
 
