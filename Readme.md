@@ -53,7 +53,7 @@
             </a>
         </li>
         <li>
-            <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/10.%20BlackJack%20Game">
+            <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/10.%20BlackJack">
                 BlackJack Game
             </a>
         </li>
