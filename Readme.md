@@ -58,8 +58,14 @@
             </a>
         </li>
         <li>
+            <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/11.%20Number%20Guessing%20Game">
+                Number Guessing Game
+            </a>
+        </li>
+        <li>
             <i>More projects incoming...</i>
         </li>
+
     </details>
 
     <details>
