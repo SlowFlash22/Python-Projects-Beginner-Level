@@ -1,7 +1,7 @@
 # Python Mini-projects:
 
-## Hey there developers😇, welcome to this repository!
-- ###  This repository contains python projects ranging from Beginner to OP level😅 learnt from Angela Yu's python bootcamp
+## Hey there developers🐍
+###  This repository contains python projects ranging from Beginner to OP level😅 learnt from Angela Yu's python bootcamp
 - ### Feel free to star this to keep an eye on repo updates.✨  
 - Repo includes:
     <details open>
@@ -60,6 +60,11 @@
         <li>
             <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/11.%20Number%20Guessing%20Game">
                 Number Guessing Game
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/12.%20Higher%20Lower%20Game">
+                Higher Lower Game
             </a>
         </li>
         <li>
