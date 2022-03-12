@@ -1,0 +1,13 @@
+# Coffee Machine 🍵
+- It has 3 options in the menu to choose from espresso/latte/cappuccino.
+    - After that, it checks if the resouces are sufficient or not.
+        - Machine proceeds to ask for money in INR.
+            - If money is sufficient, machine calculates and returns the change(if any).
+                - After that, it deducts the resources available to make the required product.
+            - If money isn't sufficient, it returns the money.
+    - If resources are not sufficient:
+        - It returns the ingredient missing along with an apology and restarts the machine.
+            - If more than one products are unavailable, the machine stops. 
+- There are two options for maintenance purpose: 
+    - *off* to power off the machine.
+    - *report* to get the info about remaining resources and profit earned. 
