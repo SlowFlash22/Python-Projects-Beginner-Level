@@ -77,6 +77,9 @@
             <li>
                 <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/13.%20Coffee%20Machine">
                     Coffee Machine
+                </a> /
+                <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/13.%20Coffee%20Machine/OOP%20Approach">
+                    Coffee Machine(OOP Approach)
                 </a>
             </li>
             <li>
