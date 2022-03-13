@@ -83,6 +83,11 @@
                 </a>
             </li>
             <li>
+                <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/14.%20Trivia%20Game">
+                    Trivia Game
+                </a>
+            </li>
+            <li>
                 More projects incoming...
             </li>
         </ol>
