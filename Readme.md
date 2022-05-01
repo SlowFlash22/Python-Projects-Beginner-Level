@@ -88,7 +88,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/14.%20Hirst%20Painting">
+                <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/15.%20Hirst%20Painting">
                     Hirst Painting (Turtle drawing)
                 </a>
             </li>
