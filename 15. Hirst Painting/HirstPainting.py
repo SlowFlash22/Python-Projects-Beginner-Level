@@ -1,8 +1,8 @@
 # ----------------------------
 # For extracting colors from an image
-import random
+#import random
 
-import colorgram
+#import colorgram
 
 # colors = colorgram.extract("image.jpeg", 30)
 # rgb_colors = []
