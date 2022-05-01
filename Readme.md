@@ -1,7 +1,7 @@
 # Python Mini-projects:
 
 ## Hey there developers🐍
-###  This repository contains python projects ranging from Beginner to OP level😅 learnt from Angela Yu's python bootcamp
+###  This repository contains python projects ranging from Beginner to OP level😅 learned from Angela Yu's python bootcamp
 - ### Feel free to star this to keep an eye on repo updates.✨  
 - Repo includes:
     <details open>
@@ -85,6 +85,11 @@
             <li>
                 <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/14.%20Trivia%20Game">
                     Trivia Game
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/SlowFlash22/Python-Mini-Projects/tree/master/14.%20Hirst%20Painting">
+                    Hirst Painting (Turtle drawing)
                 </a>
             </li>
             <li>
